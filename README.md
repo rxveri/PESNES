@@ -1,4 +1,4 @@
-# PESNES (Penis & SNES
+# PESNES (Penis & SNES)
 A Fork of SNESticle
 
 SNESticle source code (circa ~2004)
